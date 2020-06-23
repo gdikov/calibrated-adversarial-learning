@@ -15,13 +15,13 @@ The notebook `part_1.ipynb` shows visually the effect of the calibration regular
 
 | Calibrated cGAN  | Uncalibrated cGAN with mode collapse |
 | ------------- | ------------- |
-| <img src="media/calibrated_fit.png?sanitize=true" width="100%">  | <img src="media/model_collapsed_fit.png?sanitize=true" width="100%">  |
+| <img src="media/calibrated_fit.png?sanitize=true" width="60%">  | <img src="media/mode_collapsed_fit.png?sanitize=true" width="60%">  |
 
 #### Part 2
 The next notebook, `part_2.ipynb` examines the robustness of the approach over multiple data configurations and random weight initialisations. 
 
 <p align="center">
- <img src="media/average_performance.png" height="180" alt="image"/>
+ <img src="media/average_performance.png" height="280" alt="image"/>
 </p>
 
 ## Citation
