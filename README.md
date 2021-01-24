@@ -1,8 +1,8 @@
 # Calibrated Adversarial Learning
 
-This repository contains the code reproducing the toy regression example presented in Section 5.1. in the paper ["Calibrated Adversarial Refinement for Multimodal Semnatic Segmentation"](https://arxiv.org/abs/2006.13144) by Kassapis et al. 
+This repository contains the code reproducing the toy regression example presented in Section 5.1. in the paper ["Calibrated Adversarial Refinement for Stochastic Semnatic Segmentation"](https://arxiv.org/abs/2006.13144) by Kassapis et al. 
 
-Check out the [official repositoy](https://github.com/EliasKassapis/CARMSS) for reproducing all semantic segmentation experiments.
+Check out the [official repositoy](https://github.com/EliasKassapis/CARSSS) for reproducing all semantic segmentation experiments.
 
 ## Requirements
 The code has been tested with Python 3.7. The required python packages are listed in `requirements.txt`. 
@@ -27,7 +27,7 @@ The next notebook, `part_2.ipynb` examines the robustness of the approach over m
 ## Citation
 ```
 @article{kassapis2020calibrated,
-    title={{Calibrated Adversarial Refinement for Multimodal Semnatic Segmentation}},
+    title={{Calibrated Adversarial Refinement for Stochastic Semnatic Segmentation}},
     author={Kassapis, Elias and Dikov, Georgi and Gupta, Deepak K. and Nugteren, Cedric},
     journal={arXiv preprint arXiv:2006.13144},
     year={2020}
